@@ -4,18 +4,6 @@ package com.company;
 // Software Dev 1
 // 24 February 22
 
-// https://www.markdownguide.org/cheat-sheet/
-
-/**
- * Is this a list
- * idk
- */
-
-/* Instead writing new code for every customer, I made a list for each
-   inventory item (lemonade, pretzels, cash, and tips). Then, I used a
-   for loop to add or subtract each number in the list from the total.
- */
-
 public class Main {
     static int lemonades_available = 43;
     static int pretzels_available = 60;

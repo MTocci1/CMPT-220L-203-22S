@@ -1,0 +1,23 @@
+
+y
+java:S3008"^Rename this field "lemonades_available" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ç»‹øÿÿÿÿ
+r
+java:S3008	"]Rename this field "pretzels_available" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡f
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é”ï†ûÿÿÿÿ8ö««îò/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(à„Ò‚şÿÿÿÿ8û««îò/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(š§âŒ8ü««îò/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¼ßüÿÿÿÿ8ı««îò/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(é´¼èøÿÿÿÿ8€¬«îò/
+U	java:S106("9Replace this use of System.out or System.err by a logger.(¦¼Š™8‚¬«îò/
+i	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—µüI8„¬«îò/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(à„Ò‚şÿÿÿÿ8‹¬«îò/
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(š§âŒ8¬«îò/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¼ßüÿÿÿÿ8¬«îò/
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(é´¼èøÿÿÿÿ8¬«îò/
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¦¼Š™8‘¬«îò/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰©ÀÆùÿÿÿÿ8”¬«îò/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÏ­8•¬«îò/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï“ÿïüÿÿÿÿ8•¬«îò/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¿Ôêøÿÿÿÿ8–¬«îò/
+¶
+java:S1598"šThis file "Mason Tocci Lab 5.java" should be located in "com\company" directory, not in "C:\Users\Alex\Documents\GitHub\CMPT-220L-203-22S\JavaLabs\Lab 5".(ğ€·ªÿÿÿÿÿ
