@@ -1,7 +1,7 @@
-### Mason Tocci
+# Mason Tocci
 ## Prof. Kippins
-# Software Dev 1
-# 24 February 22
+### Software Dev 1
+### 24 February 22
 
 https://www.markdownguide.org/cheat-sheet/
 
