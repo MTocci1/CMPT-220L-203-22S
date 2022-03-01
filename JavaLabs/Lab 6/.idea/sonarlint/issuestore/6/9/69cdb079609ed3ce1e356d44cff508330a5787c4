@@ -1,0 +1,24 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ñä°ùøÿÿÿÿ
+i	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß†ııÿÿÿÿ
+k
+java:S1149>"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¦óüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŞäÆê
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±¨íæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜¹Ù–ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÁëÚ«
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(©¨ÑÈùÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(‰ºĞ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(¶‡å×
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(„•˜ûÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(¡ß²Ò
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(Òà´Ç
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñä°ùøÿÿÿÿ
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‡Ä¬şÿÿÿÿ
+e	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½öõ
+k	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦óüÿÿÿÿ
+©
+java:S1598"This file "Main.java" should be located in "com\company" directory, not in "C:\Users\Alex\Documents\GitHub\CMPT-220L-203-22S\JavaLabs\Lab 6".(ğ€·ªÿÿÿÿÿ
