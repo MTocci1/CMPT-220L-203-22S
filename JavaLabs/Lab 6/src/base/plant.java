@@ -1,9 +1,18 @@
-package com.company;
+package base;
 
 public class plant {
     boolean needsWatering;
     String plantFamily;
-    String Name;
+    String name;
+
+    public plant(boolean needsWatering, String plantFamily, String name) {
+        this.needsWatering = needsWatering;
+        this.plantFamily = plantFamily;
+        this.name = name;
+        wateringInstructions();
+        sunlightRequirements();
+        plantStatements();
+    }
 
     void wateringInstructions(){
         System.out.println("Lightly sprinkle 1 cup of water.");
@@ -16,7 +25,7 @@ public class plant {
         System.out.println("Plant Info: ");
         System.out.println("Needs watering:" + needsWatering);
         System.out.println(plantFamily);
-        System.out.println(Name);
+        System.out.println(name);
     }
 
 }

@@ -23,5 +23,5 @@ k	java:S117"QRename this local variable to match the regular expression '^[a-
 k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ϊ‡Δ¬ώÿÿÿÿ
 e	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½φυ
 k	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦σόÿÿÿÿ
-°
-java:S1598"This file "Main.java" should be located in "com\company" directory, not in "C:\Users\Alex\Documents\GitHub\CMPT-220L-203-22S\JavaLabs\Lab 6".(π€·ªÿÿÿÿÿ8Εφυ/
+©
+java:S1598"This file "Main.java" should be located in "com\company" directory, not in "C:\Users\Alex\Documents\GitHub\CMPT-220L-203-22S\JavaLabs\Lab 6".(π€·ªÿÿÿÿÿ

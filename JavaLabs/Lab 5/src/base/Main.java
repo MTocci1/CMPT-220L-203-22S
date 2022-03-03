@@ -28,12 +28,32 @@ public class Main {
 
 
     public static void main(String[] args) {
-        //	Replace this with your dry inventory function!
-        wet_inventory();
+        int[] pretzels_bought = {4,2,3,1,2,10,6,1,2,6,9};
+        int [] cash_spent = {16,28,6,18,48,32,4,84,12,8,2,56,4,36,34};
+        int [] lemonades_bought = {1,3,2,6,4,8,1,7,3,2};
+        int [] tips_made = {4,10,5,10,4,3};
+        dry_inventory (pretzels_bought, cash_spent, lemonades_bought, tips_made);
     }
 
-    static void dry_inventory() {
-        // Your DRY Solution goes here!
+    static void dry_inventory(int[] pretzels, int[] spent, int[] lemonade, int[] tip) {
+        for (int amount : pretzels) {
+            pretzels_available = pretzels_available - amount;
+        }
+        for (int money : spent) {
+            cash = cash + money;
+        }
+        for (int lemons : lemonade) {
+            lemonades_available = lemonades_available - lemons;
+        }
+        for (int money2: tip) {
+            tips = tips + money2;
+        }
+
+        System.out.println("Results for the hour!");
+        System.out.println("Lemonades Inventory: " + lemonades_available);
+        System.out.println("Pretzels Inventory: " + pretzels_available);
+        System.out.println("Cash: " + cash);
+        System.out.println("Tips: " + tips);
     }
 
     static void wet_inventory() {
