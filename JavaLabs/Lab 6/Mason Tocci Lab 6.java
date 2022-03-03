@@ -5,17 +5,6 @@ import java.util.Queue;
 import java.util.Stack;
 
 public class Main {
-    // Plant Class
-    boolean needsWatering;
-    String plantFamily;
-    String Name;
-
-    void wateringInstructions(){
-        System.out.println("Lightly sprinkle 1 cup of water.");
-    }
-    void sunlightRequirements(){
-        System.out.println("Be in sunlight for 5 hours a day.");
-    }
 
     public static void main(String[] args) {
 
@@ -70,12 +59,12 @@ public class Main {
             System.out.println(item);
         }
         // plant class
-        Main plant = new Main();
-        plant.needsWatering = true;
-        plant.plantFamily = "Daisy";
-        plant.Name = "Sunflower";
-        plant.wateringInstructions();
-        plant.sunlightRequirements();
+        plant plant1 = new plant(needsWatering, plantFamily, Name);
+        plant1.needsWatering = true;
+        plant1.plantFamily = "Daisy";
+        plant1.Name = "Sunflower";
+        plant1.wateringInstructions();
+        plant1.sunlightRequirements();
     }
 }
 

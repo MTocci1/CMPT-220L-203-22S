@@ -1,0 +1,11 @@
+
+i	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß†ııÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ŞäÆê
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±¨íæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º½Šìûÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŸãËã8ü¥Ìõ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¨õ¬r8ü¥Ìõ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÈ ‰8ı¥Ìõ/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ï¡äÊ8¦•Ôõ/
+ª
+java:S1598"This file "plant.java" should be located in "com\company" directory, not in "C:\Users\Alex\Documents\GitHub\CMPT-220L-203-22S\JavaLabs\Lab 6".(ğ€·ªÿÿÿÿÿ
