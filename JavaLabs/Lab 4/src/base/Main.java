@@ -68,7 +68,7 @@ public class Main {
         System.out.println("The hypotenuse of a triangle with legs of length 3 and 4 equals " + pythag);
     }
     // For the following todos you'll probably want to define them below and then call them from the main function above.
-/   / Function One
+    // Function One
 
     public static double exponent(int base, int power) {
         double answer = Math.pow(base, power);

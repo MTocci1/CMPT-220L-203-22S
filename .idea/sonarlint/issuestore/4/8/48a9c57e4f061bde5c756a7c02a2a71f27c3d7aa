@@ -1,0 +1,29 @@
+
+J
+java:S3740%"/Provide the parametrized type for this generic.(ñä°ùøÿÿÿÿ
+k
+java:S1149I"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¦óüÿÿÿÿ
+P
+java:S1854U":Remove this useless assignment to local variable "plant1".(¥·°¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜¹Ù–ùÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ÁëÚ«
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(©¨ÑÈùÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(‰ºĞ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(¶‡å×
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(„•˜ûÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(¡ß²Ò
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(Òà´Ç
+A
+java:S1481U"+Remove this unused "plant1" local variable.(¥·°¿
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú‡Ä¬şÿÿÿÿ
+n
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(½öõ
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦óüÿÿÿÿ
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñä°ùøÿÿÿÿ
+k	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‡Ä¬şÿÿÿÿ
+e	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½öõ
+k	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦óüÿÿÿÿ
