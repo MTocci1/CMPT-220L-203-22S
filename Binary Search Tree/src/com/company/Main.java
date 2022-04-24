@@ -118,6 +118,35 @@ class BST {
         // if value is not found, search the left side of tree
         return getNthLargest(node.left, n);
     }
+
+    public Node delete(Node node, int val) {
+        // if the tree is empty
+        if (node == null)
+            return node;
+
+        // if tree is not empty go down tree
+        if (val < node.value)
+            // if val is less go left
+            node.left = delete(node.left, val);
+        else if (val > node.value)
+            // if val is greater go right
+            node.right = delete(node.right, val);
+
+        // if val is equal to the node's value then it is deleted
+        else {
+            // node with only one child or no child
+            if (node.left == null)
+                return node.right;
+            else if (node.right == null)
+                return node.left;
+
+            // node with two children
+            node.value = getMinVal(node.right);
+            // Delete the successor
+            node.right = delete(node.right, node.value);
+        }
+        return node;
+    }
 }
 
 public class Main {
@@ -129,11 +158,12 @@ public class Main {
         root = a.insert(root, 8);
         root = a.insert(root, 3);
         root = a.insert(root, 6);
+        root = a.insert(root, 5);
         root = a.insert(root, 9);
 
 
         // searches if a value is in the tree
-        System.out.println("Does the value 3 exist in the binary tree? " + a.ifValExists(root, 3));
+        System.out.println("Does the value 6 exist in the binary tree? " + a.ifValExists(root, 6));
         System.out.println("Does the value 4 exist in the binary tree? " + a.ifValExists(root, 4));
 
         // checks the height of the tree
@@ -147,5 +177,9 @@ public class Main {
 
         // finds the nth largest value, in this case it is the 2nd largest
         a.getNthLargest(root, 2);
+        a.delete(root, 6);
+        System.out.println("Does the value 6 exist in the binary tree? " + a.ifValExists(root, 6));
+
+
     }
 }
