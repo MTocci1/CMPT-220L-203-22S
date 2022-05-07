@@ -1,14 +1,14 @@
 
-N	java:S106N"9Replace this use of System.out or System.err by a logger.(æ ³¦
-N	java:S106["9Replace this use of System.out or System.err by a logger.(æ ³¦
-L
-java:S2696p"6Make the enclosing method "static" or remove this set.(ıÔÉü
-N	java:S106s"9Replace this use of System.out or System.err by a logger.(”…ó
-T	java:S106¦"9Replace this use of System.out or System.err by a logger.(‚ØÚğúÿÿÿÿ
-N	java:S106§"9Replace this use of System.out or System.err by a logger.(¥İèx
-T	java:S106ª"9Replace this use of System.out or System.err by a logger.(î«Ğ™ûÿÿÿÿ
-Q
-java:S2209ª"5Change this instance-reference to a static reference.(î«Ğ™ûÿÿÿÿ
-O	java:S106­"9Replace this use of System.out or System.err by a logger.(Êµ•ã
-O	java:S106°"9Replace this use of System.out or System.err by a logger.(šÒ¸õ
-[	java:S106µ"9Replace this use of System.out or System.err by a logger.(‚ØÚğúÿÿÿÿ8©•‘è…0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¨†ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼»‘±ÿÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(¼»‘±ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ö‘ÖÀşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ş÷²—
+S	java:S106""9Replace this use of System.out or System.err by a logger.(´˜­«ÿÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(öŸ×ğşÿÿÿÿ
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ÜšŸúÿÿÿÿ8åÁË¨ˆ0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(æ¹éÕ8Í¨ˆ0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(†Š¾¬8ìŒÎ¨ˆ0
+U	java:S106."9Replace this use of System.out or System.err by a logger.(š·‡Ù8º÷Î¨ˆ0
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(À—Ÿ¡ùÿÿÿÿ8ëĞ¨ˆ0
